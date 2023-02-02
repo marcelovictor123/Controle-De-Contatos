@@ -360,3 +360,6 @@ C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Con
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ControleDeContatos.genruntimeconfig.cache
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ref\ControleDeContatos.dll
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\ContatoController1\Index.cshtml.g.cs
+C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\ContatoController1\Criar.cshtml.g.cs
+C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\ContatoController1\Editar.cshtml.g.cs
+C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\ContatoController1\ApagarConfirmacao.cshtml.g.cs
