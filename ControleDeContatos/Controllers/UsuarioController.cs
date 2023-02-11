@@ -1,12 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ControleDeContatos.Models;
+using ControleDeContatos.Repositorio;
+using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
 
 namespace ControleDeContatos.Controllers
 {
     public class UsuarioController : Controller
     {
+        private readonly IUsuarioRepositorio _usuarioRepositorio;
+        public UsuarioController(IUsuarioRepositorio usuarioRepositorio)
+        {
+            _usuarioRepositorio = usuarioRepositorio;
+        }
         public IActionResult Index()
         {
-            return View();
+            List<UsuarioModel> usuarios = _usuarioRepositorio.BuscarTodos();
+            return View(usuarios);
         }
     }
 }
