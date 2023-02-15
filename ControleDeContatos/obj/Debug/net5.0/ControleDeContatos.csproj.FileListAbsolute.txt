@@ -397,3 +397,4 @@ C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\bin\Debug\net5.0\run
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Index.cshtml.g.cs
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Criar.cshtml.g.cs
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\ApagarConfirmacao.cshtml.g.cs
+C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
