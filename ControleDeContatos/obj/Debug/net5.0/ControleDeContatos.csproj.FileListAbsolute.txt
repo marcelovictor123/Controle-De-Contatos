@@ -400,3 +400,4 @@ C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Raz
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Usuario\Editar.cshtml.g.cs
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
 C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Shared\_LayoutDeslogada.cshtml.g.cs
+C:\Cursos\C_sharp\asp\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Shared\Components\Menu\Default.cshtml.g.cs
