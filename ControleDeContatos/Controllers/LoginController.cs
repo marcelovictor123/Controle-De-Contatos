@@ -6,6 +6,7 @@ using System;
 
 namespace ControleDeContatos.Controllers
 {
+
     public class LoginController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;
